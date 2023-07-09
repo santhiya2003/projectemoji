@@ -1,0 +1,81 @@
+.body{ 
+
+     background-color: brown;
+
+
+}
+.face{
+    height: 200px;
+    width: 200px;
+    background-color: darkgoldenrod;
+    border-radius: 100%;
+    position: relative;
+    top: 250px;
+ 
+ 
+ }
+ .reye{
+     height: 15px;
+     width: 15px;
+     background-color: black;
+     border-radius: 100%;
+     position: absolute;
+     top: 40px;
+     left: 50px;
+ }
+ .leye{
+     height: 15px;
+     width: 15px;
+     background-color: black;
+     border-radius: 100%;
+     position: absolute;
+     top: 40px;
+     left: 120px;
+ }
+ .mouth{
+     height: 25px;
+     width: 30px;
+     background-color: black;
+     border-radius: 19px 19px 19px 15px;
+     position: absolute;
+     top: 95px;
+     left: 83px;
+ }
+ .tongue{
+ 
+     height: 15px;
+     width: 66px;
+     background-color:black;
+     border-radius:20px 20px 20px 20px;
+     position: absolute;
+     top: 50px;
+     left: -16px;
+}
+.rear{
+     
+    height: 40px;
+    width: 40px;
+    background-color:black;
+    border-radius:20px 20px 20px 20px;
+    position: absolute;
+    top: 253px;
+    left: 575px;
+
+
+}
+.lear{
+     
+    height: 40px;
+    width: 40px;
+    background-color:black;
+    border-radius:20px 20px 20px 20px;
+    position: absolute;
+    top: 249px;
+    left: 705px;
+
+
+
+
+
+}
+
